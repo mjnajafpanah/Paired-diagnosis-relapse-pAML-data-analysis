@@ -39,6 +39,7 @@ survminer
 
 Install packages before running analyses.
 
-Citation
+# Citation
 
-If using this code, please cite: NajafPanah MJ, Stevens AM, Krueger MJ, Rochette M, Sandhu S, Kim L, Chiu HS, Epps J, Somvanshi S, Zorman B, Martinez MR, Rapsomaniki M, Unger S, Becher B, Yi JS, Man TK, Redell MS, Sumazin P. Characterization of Chemoresistant Cell Populations Improves Risk Stratification and Therapy Prediction in Pediatric AML. bioRxiv [Preprint]. 2026 Oct 20:2025.09.25.678688. doi: 10.1101/2025.09.25.678688. PMID: 41256415; PMCID: PMC12622046. In Press, Nature Communications.
+If using this code, please cite: 
+NajafPanah MJ, Stevens AM, Krueger MJ, Rochette M, Sandhu S, Kim L, Chiu HS, Epps J, Somvanshi S, Zorman B, Martinez MR, Rapsomaniki M, Unger S, Becher B, Yi JS, Man TK, Redell MS, Sumazin P. Characterization of Chemoresistant Cell Populations Improves Risk Stratification and Therapy Prediction in Pediatric AML. bioRxiv [Preprint]. 2026 Oct 20:2025.09.25.678688. doi: 10.1101/2025.09.25.678688. PMID: 41256415; PMCID: PMC12622046. In Press, Nature Communications.
