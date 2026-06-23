@@ -8,10 +8,6 @@ The repository was simplified from the original analysis environment to provide 
 
 Previously published methods (e.g. SQUID deconvolution) are not reimplemented here and should be obtained from their original publication/repository.
 
-## Data requirements
-
-This repository assumes access to the datasets used in the manuscript.
-
 ## Input data
 
 - Single-cell count matrices
