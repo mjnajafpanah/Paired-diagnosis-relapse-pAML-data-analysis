@@ -3,7 +3,7 @@
 #
 # Survival analyses and Bulk validation analyses
 ##################################################
-
+source("R/helper.R")
 
 run_cox_model <- function(
     data,
