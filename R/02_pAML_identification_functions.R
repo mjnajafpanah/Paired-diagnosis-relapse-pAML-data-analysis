@@ -3,7 +3,7 @@
 #
 # pAML cluster identification
 ##################################################
-
+source("R/helper.R")
 
 calculate_cluster_fractions <- function(
     metadata,
