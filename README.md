@@ -12,25 +12,25 @@ Previously published methods (e.g. SQUID deconvolution) are not reimplemented he
 
 This repository assumes access to the datasets used in the manuscript.
 
-## Input data may include:
+## Input data
 
-Single-cell count matrices
-Patient metadata
-External validation cohorts (e.g. TARGET AML)
-Clinical outcome tables
+- Single-cell count matrices
+- Patient metadata
+- External validation cohorts (e.g. TARGET AML)
+- Clinical outcome tables
 
 As the datasets are large, they are not included in this repository.
 
 ## Required R packages
-Seurat
-SingleR
-dplyr
-tidyr
-data.table
-ggplot2
-stringr
-survival
-survminer
+- Seurat
+- SingleR
+- dplyr
+- tidyr
+- data.table
+- ggplot2
+- stringr
+- survival
+- survminer
 
 Install packages before running analyses.
 
