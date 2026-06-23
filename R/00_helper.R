@@ -1,7 +1,7 @@
 ##################################################
 # 00_helper.R
 #
-# Shared packages, helper functions and global data
+# Required packages
 ##################################################
 
 ########################
@@ -49,8 +49,5 @@ options(stringsAsFactors = FALSE)
 
 set.seed(1234)
 
-########################
-# Load helper datasets
-########################
 
 
