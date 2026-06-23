@@ -1,7 +1,7 @@
 # Paired-diagnosis-relapse-pAML-data-analysis
 This repository contains the custom R code used to generate the analyses presented in "Characterization of Chemoresistant Cell Populations Improves Risk Stratification and Therapy Prediction in Pediatric Acute Myeloid Leukemia" research paper.
 <p align="center">
-  <img width="724" height="720" alt="Image" src="https://github.com/user-attachments/assets/0c5bc333-fa22-469c-8aa8-e92b89ff275f" />
+  <img width="424" height="420" alt="Image" src="https://github.com/user-attachments/assets/0c5bc333-fa22-469c-8aa8-e92b89ff275f" />
 </p>
 
 The repository was simplified from the original analysis environment to provide a reproducible version of the major analyses used in the study. The code is organized into three primary modules:
