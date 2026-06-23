@@ -4,6 +4,7 @@
 #
 # Single-cell preprocessing and integration
 ##################################################
+source("R/helper.R")
 
 #' Create Seurat object
 create_sc_object <- function(
